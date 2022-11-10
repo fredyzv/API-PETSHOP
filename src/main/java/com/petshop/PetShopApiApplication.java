@@ -8,6 +8,7 @@ public class PetShopApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PetShopApiApplication.class, args);
+		System.out.println("Encendido");
 	}
 
 }
