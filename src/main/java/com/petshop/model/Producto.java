@@ -10,4 +10,5 @@ import javax.persistence.Table;
 @Table(name="producto")
 public class Producto {
 
+    private int cod_prod;
 }
